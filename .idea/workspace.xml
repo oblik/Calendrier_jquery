@@ -1,14 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a986835-0aad-4f85-a133-66e188f5c0eb" name="Default" comment="1st release">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="C:\Users\sylvain\Desktop\Sylvain\plugin jquery\Calendrier jquery\js\vendor\jquery-1.10.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\sylvain\Desktop\Sylvain\plugin jquery\Calendrier jquery\js\vendor\modernizr-2.6.2.min.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/calendar.css" afterPath="$PROJECT_DIR$/css/calendar.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/plugins.js" afterPath="$PROJECT_DIR$/js/plugins.js" />
+    <list default="true" id="0a986835-0aad-4f85-a133-66e188f5c0eb" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/AjaxLoader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl-carousel/AjaxLoader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/ico/apple-touch-icon-114-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/ico/apple-touch-icon-144-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/ico/apple-touch-icon-57-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/ico/apple-touch-icon-72-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/demo-slides/controls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/demo-slides/css3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/ico/favicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/demo-slides/feather.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/fullimage1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/fullimage2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/fullimage3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/fullimage4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/fullimage5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/fullimage6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/fullimage7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/glyphicons-halflings-green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/demo-slides/grab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl-carousel/grabbing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/demo-slides/modern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/demo-slides/multi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/owl-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/owl1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/owl2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/owl3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/owl4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/owl5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/owl6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/owl7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/owl8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/demo-slides/responsive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/demo-slides/tons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/demo-slides/touch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/demo-slides/zombie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/js/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/autoHeight.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/js/bootstrap-collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/js/bootstrap-tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/js/bootstrap-transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/css/bootstrapTheme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/changelog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/click.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/css/custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/json/customData.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/customJson.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/json/data.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/full.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/images.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/itemsCustom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/js/jquery-1.9.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/json.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/lazyLoad.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/manipulations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/navOnTop.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/navOnTop2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/one.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl-carousel/owl.carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl-carousel/owl.carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl-carousel/owl.carousel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl-carousel/owl.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl-carousel/owl.transitions.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/owlStatus.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/js/google-code-prettify/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/js/google-code-prettify/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/progressBar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/randomOrder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/css/responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/js/google-code-prettify/run_prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/scaleup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/sync.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/transitions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Calendrier jquery.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -210,13 +283,18 @@
       <created>1408145127174</created>
       <updated>1408145127174</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add carroussel">
+      <created>1408229085874</created>
+      <updated>1408229085874</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -232,7 +310,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -251,7 +328,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="1st release" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st release" />
+    <MESSAGE value="add carroussel" />
+    <option name="LAST_COMMIT_MESSAGE" value="add carroussel" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
