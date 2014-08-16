@@ -6,9 +6,14 @@ $(document).ready(function() {
         //year: "2012", // Optional, defaults to current year - pass in a year - Integer or String
         scroll_to_date: false // Scroll to the current date?
     });
+
+
+
 });
 
-//
+
+
+
 // Example of callback - do something with the returned date
 var calendar_callback = function(date) {
     console.log(date);

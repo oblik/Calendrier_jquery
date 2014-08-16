@@ -2,20 +2,29 @@
     border: 1px solid #000;
     cursor: pointer;
     display: none;
-    float: left;
     font-size: 13px;
     font-weight: 100;
     height: 16px;
-    margin: -1px -1px 0 0;
-    padding: 4px 0;
+    margin: 0;
+    padding: 0;
     text-align: center;
-    width: 24px;
+    width:100%;
     -webkit-transition: all 400ms ease;
     -moz-transition: all 400ms ease;
     -ms-transition: all 400ms ease;
     -o-transition: all 400ms ease;
     transition: all 400ms ease;
+    box-sizing: border-box;
+    height:30px;
+    line-height:30px;
+    width:30px;
 }
+
+#calendar .label.lastelement {
+    border-right:1px solid #000;
+}
+
+
 
 #calendar .monthandyear {
     color: #000;
@@ -84,6 +93,13 @@
 #calendar-event-result {
     margin: 30px 0;
 }
+
+/* owl-carousel-calendar */
+
+#owl-carousel-calendar {
+
+}
+
 
 /* Tipsy CSS (http://onehackoranother.com/projects/jquery/tipsy/) - If you already use it, delete this. */
 

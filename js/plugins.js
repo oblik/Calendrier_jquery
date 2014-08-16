@@ -134,28 +134,18 @@
         //
         // Set reference for calendar DOM object
         var $_calendar = $('#calendar');
+        var $return =[];
 
         // Navigation arrows
-        $_calendar.append('<div id=\"arrows\"></div>');
+        $return.push('<div id=\"arrows\"><div class=\"next\"></div><div class=\"prev\"></div></div>');
 
-        //
-        // DOM object reference for arrows
-        $_arrows = $('#arrows');
-        $_arrows.append('<div class=\"next\"></div>');
-        $_arrows.append('<div class=\"prev\"></div>');
-
-        //
         // Add a clear for the floated elements
-        $_calendar.append('<div class=\"clear\"></div>');
+        $return.push('<div class=\"clear\"></div>');
 
-        //
         // Loop over the month arrays, loop over the characters in teh string, and apply to divs.
 
             // Create a scrollto marker
-            $_calendar.append("<div class='monthandyear' id='mois-" + the_month + "'>" + month_array[the_month] + " - " + the_year + "</div>");
-
-            // Add a clear for the floated elements
-            $_calendar.append('<div class=\"clearfix\">');
+            $return.push("<div class='monthandyear' id='mois-" + the_month + "'>" + month_array[the_month] + " - " + the_year + "</div>");
 
             // Check for leap year
             // CHECK fevrier
@@ -167,9 +157,15 @@
                 }
             }
 
+        $return.push('<div id="owl-carousel-calendar" class=\"owl-carousel\">');
+        var classdiv ="";
             for (j = 1; j <= parseInt(month_days[the_month]); j++) {
 
-                //
+                /* add class to last element */
+                if (j == parseInt(month_days[the_month])) {
+                     classdiv = "lastelement";
+                }
+
                 // Check for today
                 var today = '';
                 if (the_month === d.getMonth() && the_year === d.getFullYear()) {
@@ -179,15 +175,25 @@
                 }
 
                 // Looping over numbers, apply them to divs
-                $_calendar.append("<div data-date='" + j + '/' + (parseInt(the_month) + 1) + '/' + the_year + "' class='label day " + today + "'>" + j + '</div>');
+                $return.push("<div data-date='" + j + '/' + (parseInt(the_month) + 1) + '/' + the_year + "' class='label day " + classdiv + "" + today + "'>" + j + '</div>');
             }
 
-            // Add a clear for the floated elements
-            $_calendar.append('<div id=\"calendar-event-result\"></div>');
+            // close owl-carousel-calendar
+            $return.push('</div>');
+
+            // Add a div for events elements
+            $return.push('<div id=\"calendar-event-result\"></div>');
 
 
-            // end clearfix
-            $_calendar.append('</div>');
+
+        $('#calendar').html($return.join(''));
+        $("#owl-carousel-calendar").owlCarousel({
+            items : 31, //10 items above 1000px browser width
+            itemsDesktop : [1000,31], //5 items between 1000px and 901px
+            itemsDesktopSmall : [900,15], // betweem 900px and 601px
+            itemsTablet: [600,15], //2 items between 600 and 0
+            itemsMobile : false // itemsMobile disabled - inherit from itemsTablet option
+        });
 
 
         //
