@@ -17,14 +17,14 @@
     box-sizing: border-box;
     height:30px;
     line-height:30px;
-    width:30px;
+    border-right:0;
 }
 
-#calendar .label.lastelement {
-    border-right:1px solid #000;
+#owl-carousel-calendar .owl-item:last-child {
+    border-right: 1px solid #000;
+    box-sizing: border-box;
+    margin: 0 0 0 -1px;
 }
-
-
 
 #calendar .monthandyear {
     color: #000;

@@ -2,85 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a986835-0aad-4f85-a133-66e188f5c0eb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/AjaxLoader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl-carousel/AjaxLoader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/ico/apple-touch-icon-114-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/ico/apple-touch-icon-144-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/ico/apple-touch-icon-57-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/ico/apple-touch-icon-72-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/demo-slides/controls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/demo-slides/css3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/ico/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/demo-slides/feather.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/fullimage1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/fullimage2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/fullimage3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/fullimage4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/fullimage5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/fullimage6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/fullimage7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/glyphicons-halflings-green.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/demo-slides/grab.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl-carousel/grabbing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/demo-slides/modern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/demo-slides/multi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/owl-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/owl1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/owl2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/owl3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/owl4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/owl5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/owl6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/owl7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/assets/owl8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/demo-slides/responsive.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/demo-slides/tons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/demo-slides/touch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/img/demo-slides/zombie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/js/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/autoHeight.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/js/bootstrap-collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/js/bootstrap-tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/js/bootstrap-transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/css/bootstrapTheme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/changelog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/click.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/css/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/custom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/json/customData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/customJson.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/json/data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/full.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/images.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/itemsCustom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/js/jquery-1.9.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/json.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/lazyLoad.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/manipulations.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/navOnTop.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/navOnTop2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/one.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl-carousel/owl.carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl-carousel/owl.carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl-carousel/owl.carousel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl-carousel/owl.theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/owl-carousel/owl.transitions.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/owlStatus.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/js/google-code-prettify/prettify.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/js/google-code-prettify/prettify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/progressBar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/randomOrder.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/css/responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/assets/js/google-code-prettify/run_prettify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/scaleup.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/sync.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/demos/transitions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/calendar.css" afterPath="$PROJECT_DIR$/css/calendar.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/plugins.js" afterPath="$PROJECT_DIR$/js/plugins.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Calendrier jquery.iws" />
@@ -107,7 +30,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="0" selection-start="1802" selection-end="1802" vertical-scroll-proportion="-11.807693" vertical-offset="407" max-vertical-offset="867">
+            <state line="42" column="0" selection-start="1802" selection-end="1802" vertical-scroll-proportion="0.0" vertical-offset="407" max-vertical-offset="867">
               <folding />
             </state>
           </provider>
@@ -122,19 +45,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="calendar.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="calendar.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/calendar.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="4" selection-start="470" selection-end="470" vertical-scroll-proportion="0.8613333" vertical-offset="0" max-vertical-offset="2703">
+            <state line="26" column="1" selection-start="622" selection-end="622" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="2703">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="plugins.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="plugins.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/plugins.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="165" column="44" selection-start="5136" selection-end="5147" vertical-scroll-proportion="-1.9636364" vertical-offset="2697" max-vertical-offset="9809">
+            <state line="192" column="68" selection-start="6198" selection-end="6198" vertical-scroll-proportion="0.6476427" vertical-offset="3003" max-vertical-offset="9809">
               <folding />
             </state>
           </provider>
@@ -170,8 +93,8 @@
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/js/plugins.js" />
         <option value="$PROJECT_DIR$/css/calendar.css" />
+        <option value="$PROJECT_DIR$/js/plugins.js" />
       </list>
     </option>
   </component>
@@ -208,7 +131,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -229,6 +151,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,32 +210,36 @@
       <created>1408229085874</created>
       <updated>1408229085874</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add carroussel">
+      <created>1408229268614</created>
+      <updated>1408229268614</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25767368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32826748" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32826748" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -335,6 +262,41 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="1802" selection-end="1802" vertical-scroll-proportion="0.0" vertical-offset="407" max-vertical-offset="867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="112" column="0" selection-start="1998" selection-end="1998" vertical-scroll-proportion="0.0" vertical-offset="1377" max-vertical-offset="5372">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/calendar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="14" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="2703">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="165" column="44" selection-start="5136" selection-end="5147" vertical-scroll-proportion="0.0" vertical-offset="2697" max-vertical-offset="9809">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="85" selection-start="1389" selection-end="1389" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
@@ -372,7 +334,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="1802" selection-end="1802" vertical-scroll-proportion="-11.807693" vertical-offset="407" max-vertical-offset="867">
+        <state line="42" column="0" selection-start="1802" selection-end="1802" vertical-scroll-proportion="0.0" vertical-offset="407" max-vertical-offset="867">
           <folding />
         </state>
       </provider>
@@ -391,16 +353,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/plugins.js">
+    <entry file="file://$PROJECT_DIR$/css/calendar.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="165" column="44" selection-start="5136" selection-end="5147" vertical-scroll-proportion="-1.9636364" vertical-offset="2697" max-vertical-offset="9809">
+        <state line="26" column="1" selection-start="622" selection-end="622" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="2703">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/calendar.css">
+    <entry file="file://$PROJECT_DIR$/js/plugins.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="4" selection-start="470" selection-end="470" vertical-scroll-proportion="0.8613333" vertical-offset="0" max-vertical-offset="2703">
+        <state line="192" column="68" selection-start="6198" selection-end="6198" vertical-scroll-proportion="0.6476427" vertical-offset="3003" max-vertical-offset="9809">
           <folding />
         </state>
       </provider>
